@@ -6,3 +6,5 @@
 hide files:defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder
 
 按下回车即可！
+
+直接打开终端，输入命令即可！
